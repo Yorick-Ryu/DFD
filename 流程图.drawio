@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-09T09:12:46.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="YW1Yg8Wm5NQvvUfoZc01" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-09T11:24:34.463Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="7jEElcpSoT3yGlmaVLbb" version="24.3.1" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1783" dy="939" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1056" dy="556" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="77e6c97f196da883-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 12px;&quot;&gt;基于深度学习的单词记忆辅助系统使用流程&lt;/font&gt;" style="swimlane;html=1;childLayout=stackLayout;startSize=20;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="1" vertex="1">
-          <mxGeometry x="80" y="40" width="800" height="620" as="geometry" />
+          <mxGeometry x="80" y="40" width="640" height="620" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-2" value="用户" style="swimlane;html=1;startSize=20;fontFamily=宋体;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
           <mxGeometry y="20" width="160" height="600" as="geometry" />
@@ -34,20 +34,14 @@
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-36" value="结束" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=宋体;fontSize=14;align=center;" vertex="1" parent="77e6c97f196da883-2">
           <mxGeometry x="30" y="420" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="77e6c97f196da883-3" value="词典" style="swimlane;html=1;startSize=20;fontFamily=宋体;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="160" y="20" width="160" height="600" as="geometry" />
-        </mxCell>
-        <mxCell id="C-iWbuOIWXtZlgkXxuSI-4" value="新增词典" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=宋体;fontSize=14;align=center;" vertex="1" parent="77e6c97f196da883-3">
-          <mxGeometry x="30" y="250" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-39" value="词典" style="swimlane;html=1;startSize=20;fontFamily=宋体;fontSize=14;" vertex="1" parent="77e6c97f196da883-1">
-          <mxGeometry x="320" y="20" width="160" height="600" as="geometry" />
+          <mxGeometry x="160" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-40" value="新增词典" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=宋体;fontSize=14;align=center;" vertex="1" parent="C-iWbuOIWXtZlgkXxuSI-39">
           <mxGeometry x="30" y="250" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-4" value="生词本" style="swimlane;html=1;startSize=20;fontFamily=宋体;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="480" y="20" width="160" height="600" as="geometry" />
+          <mxGeometry x="320" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-6" value="新增生词本" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=宋体;fontSize=14;align=center;" vertex="1" parent="77e6c97f196da883-4">
           <mxGeometry x="30" y="250" width="100" height="60" as="geometry" />
@@ -56,7 +50,7 @@
           <mxGeometry x="30" y="430" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="77e6c97f196da883-5" value="记忆" style="swimlane;html=1;startSize=20;fontFamily=宋体;fontSize=14;" parent="77e6c97f196da883-1" vertex="1">
-          <mxGeometry x="640" y="20" width="160" height="600" as="geometry" />
+          <mxGeometry x="480" y="20" width="160" height="600" as="geometry" />
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-5" source="77e6c97f196da883-20" target="C-iWbuOIWXtZlgkXxuSI-8">
           <mxGeometry relative="1" as="geometry">
@@ -117,8 +111,10 @@
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-27" value="词典熟词率&amp;gt;90%" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=宋体;fontSize=14;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="20" y="150" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C-iWbuOIWXtZlgkXxuSI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-1" target="C-iWbuOIWXtZlgkXxuSI-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C-iWbuOIWXtZlgkXxuSI-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontSize=8;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-6" target="C-iWbuOIWXtZlgkXxuSI-8">
           <mxGeometry relative="1" as="geometry" />
@@ -157,8 +153,10 @@
             <mxPoint x="-5" y="-8" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C-iWbuOIWXtZlgkXxuSI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-27" target="C-iWbuOIWXtZlgkXxuSI-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="C-iWbuOIWXtZlgkXxuSI-29" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-30" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;" vertex="1" connectable="0" parent="C-iWbuOIWXtZlgkXxuSI-29">
           <mxGeometry x="-0.3304" relative="1" as="geometry">
@@ -168,13 +166,10 @@
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-37" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-8" target="C-iWbuOIWXtZlgkXxuSI-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="790" y="300" />
-              <mxPoint x="790" y="560" />
+              <mxPoint x="630" y="300" />
+              <mxPoint x="630" y="560" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="C-iWbuOIWXtZlgkXxuSI-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-4" target="C-iWbuOIWXtZlgkXxuSI-40">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C-iWbuOIWXtZlgkXxuSI-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=宋体;fontSize=14;fontColor=default;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;" edge="1" parent="77e6c97f196da883-1" source="C-iWbuOIWXtZlgkXxuSI-40" target="C-iWbuOIWXtZlgkXxuSI-6">
           <mxGeometry relative="1" as="geometry" />
