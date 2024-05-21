@@ -1,9 +1,63 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T04:13:31.904Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" version="24.4.4" etag="RNiK_sytPAjHzuvokE4q" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T04:29:14.721Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="l5RHvD4KX_-mJzuyaZcf" version="24.4.4" type="github">
   <diagram name="第 1 页" id="eHNIPoJlWYVfF6CdwXtc">
-    <mxGraphModel>
+    <mxGraphModel dx="788" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="240" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-3" value="模块名称" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;学习&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-5" value="生词本" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-6" value="词典" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="310" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-7" value="设置" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="550" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D4UD03k9Cm0dQUJRFM9z-8" target="D4UD03k9Cm0dQUJRFM9z-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-8" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;导航栏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-10" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;导航栏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="760" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D4UD03k9Cm0dQUJRFM9z-11" target="D4UD03k9Cm0dQUJRFM9z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-11" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;功能模块&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="D4UD03k9Cm0dQUJRFM9z-12" target="D4UD03k9Cm0dQUJRFM9z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-12" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;宋体&quot;&gt;顶栏&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-15" value="模块图标" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="190" y="190" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-16" value="文字" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-17" value="按钮" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="230" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="D4UD03k9Cm0dQUJRFM9z-18" value="按钮" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
